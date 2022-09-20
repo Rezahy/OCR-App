@@ -1,6 +1,11 @@
 # image_to_text_recognition_app
 
-A new Flutter project.
+<div style='float=left'>
+<img width='200' src='assets/screenshots/screenshot-1.png'/>
+<img width='200' src='assets/screenshots/screenshot-2.png'/>
+<img width='200' src='assets/screenshots/screenshot-3.png'/>
+<img width='200' src='assets/screenshots/screenshot-4.png'/>
+</div>
 
 ## Getting Started
 
